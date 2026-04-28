@@ -12,7 +12,7 @@
 html, body { margin: 0; padding: 0; }
 
 body {
-  font-family: Charter, "Iowan Old Style", "Apple Garamond", Palatino, "Hoefler Text", Georgia, serif;
+  font-family: helvetica, "Iowan Old Style", "Apple Garamond", Palatino, "Hoefler Text", Georgia, serif;
   color: var(--text);
   background: var(--bg);
   line-height: 1.65;
